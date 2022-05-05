@@ -16,7 +16,7 @@ PS C:\Users\Janis\Documents\Macibas DevOps\git_repos\module_1> git cat-file -p b
 100644 blob 0e6779476ae751a8b26773c9d3b39b56b69efc2a    Git_Screenshot.png
 100644 blob b1d324bd94cb9439d6ace19f3eed638b271c8c3a    VS Code_ScreenShot.png
 ```
-Git neredz atšķirību starp dažādiem vienādiem failiem dažādās mapēs.
+Git neredz atšķirību starp vienādiem failiem dažādās mapēs.
 
 16.
 Izmaiņas Terraform repozitārijā pagājušajā nedēļā
